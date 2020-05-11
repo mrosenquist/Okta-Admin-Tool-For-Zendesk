@@ -1,14 +1,16 @@
 # Okta Admin Tool For Zendesk
-This app allows IT Okta Admins to perform Okta actions within Zendesk. 
 
-Actions currently implemented:
-Password resets
-Password expirations
-Account unlocks
-Account suspensions
-Account deactivations
-Clear account sessions
-MFA enrollment resets. 
+Introducing Okta Admin Tool For Zendesk. An app based on the Zendesk app framework that allows IT admins to quickly execute Okta user tasks in Zendesk such as:
+
+Reset Passwords
+Unlock accounts
+Suspend accounts
+Deactivate accounts
+Reset Multifactor enrollments
+
+To install, download the app zip from Github. Log into your Zendesk instance >> Settings >> Apps >> Manage >> Upload private app
+
+The app is currently pending approval in Zendesk Marketplace, I’m hoping to have it approved soon but in the meantime you can always install it from its Github Source.
 
 During installation, you will need to provide the following:
 
