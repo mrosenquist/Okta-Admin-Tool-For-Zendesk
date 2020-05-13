@@ -1,6 +1,6 @@
-# Okta Admin Tool For Zendesk
+# Okta Actions
 
-Introducing Okta Admin Tool For Zendesk. An app based on the Zendesk app framework that allows IT admins to quickly execute Okta user tasks in Zendesk such as:
+Introducing Okta Actions for Zendesk. An app based on the Zendesk app framework that allows IT admins to quickly execute Okta user tasks in Zendesk such as:
 
 Reset Passwords
 Unlock accounts
