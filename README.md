@@ -2,11 +2,12 @@
 
 Introducing Okta Actions for Zendesk. An app based on the Zendesk app framework that allows IT admins to quickly execute Okta user tasks in Zendesk such as:
 
-Reset Passwords
-Unlock accounts
-Suspend accounts
-Deactivate accounts
-Reset Multifactor enrollments
+- Reset Passwords
+- Unlock accounts
+- Suspend accounts
+- Deactivate accounts
+- Delete existing sessions
+- Reset Multifactor enrollments
 
 To install, download the app zip from Github. Log into your Zendesk instance >> Settings >> Apps >> Manage >> Upload private app
 
@@ -14,8 +15,8 @@ The app is currently pending approval in Zendesk Marketplace, I’m hoping to ha
 
 During installation, you will need to provide the following:
 
-Okta Subdomain (eg. xyz.okta.com; enter xyz)
-Okta API Key (https://developer.okta.com/docs/guides/create-an-api-token/overview/)
+- Okta Subdomain (eg. xyz.okta.com; enter xyz)
+- Okta API Key (https://developer.okta.com/docs/guides/create-an-api-token/overview/)
 
 Please note this is not an official Okta app.<br><br>
 
