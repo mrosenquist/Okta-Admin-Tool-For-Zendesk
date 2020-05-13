@@ -21,8 +21,8 @@ Please note this is not an official Okta app.<br><br>
 
 <b>Screenshots</b>
 <br>
-![image](https://user-images.githubusercontent.com/23067036/81469277-5596ee00-9238-11ea-992b-be1a70551e71.png)<br><br>
-![image](https://user-images.githubusercontent.com/23067036/81469278-57f94800-9238-11ea-8322-aecf17d07053.png)<br><br>
-![image](https://user-images.githubusercontent.com/23067036/81469282-5af43880-9238-11ea-994d-0a1fbda11dbb.png)<br><br>
-![image](https://user-images.githubusercontent.com/23067036/81469285-5d569280-9238-11ea-92f7-e0a0ac098fdb.png)<br><br>
+![image](https://user-images.githubusercontent.com/23067036/81766375-1adbd100-952a-11ea-809d-b680b3515520.png)
+![image](https://user-images.githubusercontent.com/23067036/81766383-1e6f5800-952a-11ea-9d45-a25456f6f45e.png)
+![image](https://user-images.githubusercontent.com/23067036/81766388-216a4880-952a-11ea-8e8c-ee116561e6b2.png)
+![image](https://user-images.githubusercontent.com/23067036/81766391-24653900-952a-11ea-8dbc-a5496ecca9ba.png)
 
