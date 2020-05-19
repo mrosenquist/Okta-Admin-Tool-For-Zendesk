@@ -20,6 +20,10 @@ During installation, you will need to provide the following:
 
 Please note this is not an official Okta app.<br><br>
 
+*Contributions*
+
+Please fork the repo and create a pull request
+
 <b>Screenshots</b>
 <br>
 ![image](https://user-images.githubusercontent.com/23067036/81766375-1adbd100-952a-11ea-809d-b680b3515520.png)
