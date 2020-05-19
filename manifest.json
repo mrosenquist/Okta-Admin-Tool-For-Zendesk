@@ -1,0 +1,35 @@
+{
+  "name": "Okta Actions",
+  "author": {
+    "name": "Rishi Dhar",
+    "email": "rishidhar@gmail.com",
+    "url": "https://www.rishidhar.me"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0",
+  "gaID":"UA-166248870-1",
+  "domainWhitelist": ["{{setting.oktaSubDomain}}.okta.com"],
+  "parameters": [
+      {
+          "name": "oktaSubDomain",
+          "type": "text",
+          "required": true,
+          "secure": true
+      }
+      ,
+      {
+          "name": "oktaAPItoken",
+          "type": "text",
+          "required": true,
+          "secure": true
+      }
+         
+  ]
+}
