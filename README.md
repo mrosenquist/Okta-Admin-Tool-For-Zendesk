@@ -20,9 +20,9 @@ During installation, you will need to provide the following:
 
 Please note this is not an official Okta app.<br><br>
 
-*Contributions*
+<b>Contributions</b>
 
-Please fork the repo and create a pull request
+Please fork the repo and create a pull request. Thanks!
 
 <b>Screenshots</b>
 <br>
