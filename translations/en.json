@@ -1,23 +1,22 @@
 {
-  "app": {
-    "name": "Okta Actions",
-    "short_description": "Allows IT admins to perform actions on Okta accounts from Zendesk",
-    "installation_instructions": "Click the Install button to get started. To configure the app, you will need to create your [Okta API key](https://developer.okta.com/docs/guides/create-an-api-token/overview/) and your Okta subdomain (eg. If you Okta domain is abc.okta.com - enter abc as your Okta subdomain during the app configuration process). Once the app is installed and configured you will find Okta Actions in your Zendesk sidebar on the right side, ready to go!",
-  	"long_description":"Okta actions helps IT / tech support teams quickly and easily perform various actions on their organizations Okta user accounts.\n\n List of actions that can be performed include: \n\n - Password resets (including expiring temporary password) \n - Account unlocks \n - Resetting MFA enrollments \n - Clearing existing user sessions \n - Account suspensions \n - Account deactivations. \n \n For any feature requests, please email rishidhar@gmail.com",
-  	"parameters": {
-  			"oktaSubDomain": {  
-    			"label": {  
-      				"value":"Enter your Okta Subdomain (eg. if your Okta domain is abc.okta.com - enter abc here)",  
-      				"title":"Asking user for their Okta Subdomain."  
-    			}  
-  			},
-  			"oktaAPItoken": {  
-    			"label": {  
-      				"value":"Enter your Okta API Token (To create your token navigate to Okta Admin Console > Security > API and click the Create Token button)",  
-      				"title":"Asking user for the Okta API Token"  
-    			}  
-  			}    
+	"app": {
+		"name": "Okta Actions",
+		"short_description": "Allows IT admins to perform actions on Okta accounts from Zendesk",
+		"installation_instructions": "Click the Install button to get started. To configure the app, you will need to create your [Okta API key](https://developer.okta.com/docs/guides/create-an-api-token/overview/) and your Okta subdomain (eg. If you Okta domain is abc.okta.com - enter abc as your Okta subdomain during the app configuration process). Once the app is installed and configured you will find Okta Actions in your Zendesk sidebar on the right side, ready to go!",
+		"long_description": "Okta actions helps IT / tech support teams quickly and easily perform various actions on their organizations Okta user accounts.\n\n List of actions that can be performed include: \n\n - Password resets (including expiring temporary password) \n - Account unlocks \n - Resetting MFA enrollments \n - Clearing existing user sessions \n - Account suspensions \n - Account deactivations. \n \n For any feature requests, please email rishidhar@gmail.com",
+		"parameters": {
+			"oktaSubDomain": {
+				"label": {
+					"value": "Enter your Okta Subdomain (eg. if your Okta domain is abc.okta.com - enter abc here)",
+					"title": "Asking user for their Okta Subdomain."
+				}
+			},
+			"oktaAPItoken": {
+				"label": {
+					"value": "Enter your Okta API Token (To create your token navigate to Okta Admin Console > Security > API and click the Create Token button)",
+					"title": "Asking user for the Okta API Token"
+				}
+			}
+		}
 	}
-  }
 }
-
